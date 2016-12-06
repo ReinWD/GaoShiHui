@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">搞事汇</string>
+    <string name="login_hint_email">呐，你的邮箱是多少</string>
+    <string name="login_hint_password">呐，密码嘞</string>
+    <string name="login_button_login">戳我登录</string>
+    <string name="login_button_sign_in">初次见面？</string>
+    <string name="sign_in_button_sign_in">戳我注册</string>
+    <string name="login_forgotten_password">不记得自己的密码了？</string>
+    <string name="no_input_login_error">未输入账号/密码，请重试</string>
+</resources>
